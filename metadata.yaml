@@ -1,0 +1,41 @@
+_repo: The-Hanging-Stranger_41562
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41562-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dick, Philip K.
+    alias: Dick, Philip Kindred
+    birthdate: 1928
+    deathdate: 1982
+    gutenberg_agent_id: '33399'
+    url: http://www.gutenberg.org/2009/agents/33399
+    wikipedia: http://en.wikipedia.org/wiki/Philip_K._Dick
+description: <p>When Ed Loyce heads to work at his TV repair shop, he is startled
+  to find the dead body of a complete stranger hanging from a lamp post outside. But
+  when he calls attention to the morbid display, the strange reactions of his friends
+  and neighbours bring him to a disturbing realization.</p><p>Philip K. Dick was an
+  American science-fiction novelist, short-story writer and essayist. His first short
+  story, "Beyond Lies the Wub," was published shortly after his high school graduation.
+  Some of his most famous short stories were adapted for film, including "The Minority
+  Report," "Paycheck," "Second Variety" (adapted into the film <em>Screamers</em>)
+  and "We Can Remember It For You Wholesale" (adapted into the film <em>Total Recall</em>).</p><p>HarperCollins
+  brings great works of literature to life in digital format, upholding the highest
+  standards in ebook production and celebrating reading in all its forms. Look for
+  more titles in the HarperCollins short-stories collection to build...
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2012-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: The Hanging Stranger
+url: http://www.gutenberg.org/ebooks/41562
